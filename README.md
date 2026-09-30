@@ -2,11 +2,6 @@
 
 **Autonomy Signature (ASIG): companion code for our PNAS Nexus 2024 paper on growth signaling autonomy in circulating tumor cells and metastatic seeding in breast cancer.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Publication](https://img.shields.io/badge/Published-PNAS%20Nexus%202024-blue)](https://doi.org/10.1093/pnasnexus/pgae014)
-[![PMID](https://img.shields.io/badge/PMID-38312224-lightgrey)](https://pubmed.ncbi.nlm.nih.gov/38312224/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-
 ## Overview
 
 This repository contains the code and derived data underlying our study of **growth signaling autonomy**, the first classical hallmark of cancer, in the context of blood-borne metastatic dissemination of human breast cancer.
